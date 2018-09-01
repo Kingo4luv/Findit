@@ -1,0 +1,23 @@
+{
+  "name": "reddit-search",
+  "version": "1.0.0",
+  "description": "This app is used to search Reddit Posts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kingo4luv/Findit.git"
+  },
+  "keywords": [
+    "search",
+    "reddit"
+  ],
+  "author": "Kingsley Atanang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kingo4luv/Findit/issues"
+  },
+  "homepage": "https://github.com/Kingo4luv/Findit#readme"
+}
